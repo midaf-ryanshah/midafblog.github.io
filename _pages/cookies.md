@@ -4,6 +4,11 @@ permalink: /cookies/
 layout: posts
 author_profile: false
 classes: wide
+read_time: false
+comments: false
+share: false
+related: false
+
 ---
 
 At Mid AF Technologies LTD, your privacy is important to us. That’s why we’ve made it easy: we do not use cookies on our website.
