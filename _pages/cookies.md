@@ -1,7 +1,7 @@
 ---
 title: "Mid AF Technologies Cookies Policy"
 permalink: /cookies/
-layout: posts
+layout: single
 author_profile: false
 classes: wide
 read_time: false
