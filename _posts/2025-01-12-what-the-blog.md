@@ -3,6 +3,9 @@ title: "What The Blog?!"
 date: 2025-01-12T15:34:30-04:00
 categories:
   - blog
+tags:
+  - Jekyll
+  - update
 ---
 
 Hello everyone. Thanks for checking out the blog. 
@@ -13,7 +16,7 @@ My internet handle is Midafir (or Mid for short) - I'm one of four people who he
 
 Mid AF Technologies has existed in a few various different forms over the years, but I strongly believe this is the final incarnation of a burning desire that has been driving myself and the others since the idea first came across our minds.
 
-I'm sure you have a tonne of questions; who am I, what are we doing it, why call yourselves Mid AF Technologies? These are all great questions. We'll answer them all in time, I'm sure.
+I'm sure you have a tonne of questions; who am I, why are we doing it, why call yourselves Mid AF Technologies? These are all great questions. We'll answer them all in time, I'm sure.
 
 More importantly; today, I wanted to talk about what this blog is. It's not unheard of for a professional video-game studio to have a blog but this one feels a bit more... rudimentary. That is by design.
 
@@ -37,7 +40,7 @@ I first entered the industry as a software engineer, a fancy name for a game pro
 
 Mid AF Technologies is the culmination of many years of having some of those good ideas that it wasn't quite the right time for. Well, the time is now. Mid AF has been born and I hope we'll look back at this point in many years time and be astounded at how far it went.
 
-In this blog, I'll answer as much as I can, but there is one question you'll 100% never get a serious answer to; "what does the AF mean in Mid AF?". If you ask this, I warn you now, you'll always get a different answer.
+In this blog, I'll answer as much as I can, but there is one question you'll 100% never get a serious answer to; "What does the AF mean in Mid AF?". If you ask this, I warn you now, you'll always get a different answer.
 
 So that's all for the first blog post. If you read this far, thank-you. As previously mentioned, I'll talk to you as often as I can and as much as I can. I hope in some form I'm able to entertain, delight, educate. Whatever. Not quite sure what's going to happen. Just like most things in life, this is an experiment but I'm excited to get stuck in.
 
