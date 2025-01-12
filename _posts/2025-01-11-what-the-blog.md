@@ -1,8 +1,6 @@
 ---
 title: "What The Blog?!"
 date: 2025-01-11T15:34:30-04:00
-categories:
-  - blog
 ---
 
 Hello everyone. Thanks for checking out the blog. 
