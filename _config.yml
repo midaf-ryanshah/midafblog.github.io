@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Midafir"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I'm CEO of Mid AF Technologies."
+  bio    : "I'm CEO of Mid AF Technologies. Views expressed here are my own and not necessarily those of Mid AF Technologies or its affiliates. Thanks for stopping by."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
