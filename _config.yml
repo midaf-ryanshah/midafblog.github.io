@@ -82,7 +82,7 @@ footer:
       url: "https://midaf.tech"
     - label: "Cookies Policy"
       icon: "fas fa-cookie-bite"
-      url: "https://midaf-ryanshah.github.io/midafblog.github.io/cookies/"
+      url: "https://blog.midaf.tech/cookies/"
 #   - label: "Twitter"
 #     icon: "fab fa-fw fa-twitter-square"
 #     url: "https://twitter.com/"
