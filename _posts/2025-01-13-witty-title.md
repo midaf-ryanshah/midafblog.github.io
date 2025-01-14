@@ -23,11 +23,9 @@ I assume the fact you're still reading, you're agree to those terms. Excellent.
 
 So at the moment, there are two projects in-flight over here. I don't want to call them a minor project and a major project but one is definately different in size and scope to the other. 
 
-I'm not sure if you've had the chance to check-out the main [Mid AF website yet](https://midaf.tech/). If you have and you've read the goodies on there, you'll know that we do things a little differently (for better or worse) over here at Mid AF HQ. 
+I'm not sure if you've had the chance to check out the main [Mid AF website yet](https://midaf.tech/). If you have and you've read the goodies on there, you'll know that we do things a little differently (for better or worse) over here at Mid AF HQ. 
 
 We don't plan to add value to the business in the conventional sense. Basically, to sum it up into a few crude words, we're not interested in growing Mid AF as a business. We're not looking for shareholders, or to make the company itself valuable. No, Mid AF exists to put its earned value into the games it makes. 
-
-This essentially means we don't have a solid structure someone can buy their way into .etc. 
 
 The reason we've taken this approach is because we're here to make games, not make a company worth millions that we can sell to some big banker somewhere. We're here to make games and our value is not in the business but in the games we make. 
 
@@ -43,15 +41,15 @@ Who knows if it'll pan out. I guess there is only one way to find out - by doing
 
 ---
 
-That was a lot of words and confusing plans, so thank-you for sticking with me. The TL;DR is we are making a smaller game to help inject some finances and tests into the large actual real game.
+That was a lot of words and confusing plans, so thank-you for sticking with me. The TL;DR is we are making a smaller game to help inject some finances and tests into the much larger project.
 
-That's the gist of the current M.O. Now, that doesn't mean the smaller game has to be bad - not in any sense. But it has to be small. 
+That's the gist of the current M.O. Now, that doesn't mean the smaller game has to be bad - not at all. But it does have to be significantly small. 
 
-The parameters for the game is that it has to be small, cheap to make but it have the Mid AF DNA in it - something that only we can make.
+The parameters for the game is that it has to be small, cheap to make but it has to have the Mid AF DNA in it - something that only we can make.
 
 We've been spitballing for ages what that small game should be. There have been endless prototypes and tests. We're talking a whole year of on-again off-again experiments to see if we could find that secret sauce of a condensed Mid AF experience that we're happy with.
 
-It also has the unfortunate role of introducting us to the world so that little small game that could has a lot of pressure on it to succeed.
+The smaller project also has the unfortunate role of being the first one to introduce Mid AF to the world so that little small game has a lot of pressure on it to succeed.
 
 "So what is the small game?" I hear you ask.
 
@@ -73,13 +71,13 @@ The bigger project, the one the small game exists for is in pre-production. It's
 
 I've been putting together a design direction pitch to take to the others to see if they are happy with the new direction and I have been putting together a small vertical slice of what it can be. But for now, the smaller title takes priority as it directly benefits the larger game.
 
-I'm really, really excited about the bigger game and I hope in the future, we can look back and read these blog posts together and laugh at how impossibly far away it feels. But we here over at Mid AF have spent a long time on it and have a long journey ahead with it and we're all super excited. I'll keep you posted as development deepens on it.
+I'm really, really excited about the bigger game and I hope in the future, we can look back and read these blog posts together and laugh at how impossibly far away it feels right now. But we here over at Mid AF have spent a long time on it and have a long journey ahead with it and we're all super excited. I'll keep you posted as development deepens on it.
 
 ---
 
 In other news, I've spent the past couple days getting this blog and the Mid AF website setup. They're nothing fancy but the hopefully get the job done. If people want to look for us, they'll hopefully have a place to go.
 
-I didn't want to overdo the websites; esp seeing as I'm not a web developer. But they serve their purpose for the time being and I'm happy with them. I think as the company matures and people start taking it more seriously, the websites will get facelifts and dedicated people attached to them to improve and maintain them.
+I didn't want to overdo the websites; especially seeing as I'm not a web developer. But they serve their purpose for the time being and I'm happy enough with them. I think as the company matures and people start taking it more seriously, the websites will get facelifts and dedicated people attached to them to improve and maintain them.
 
 For now, they are two simple sites I've duct-taped together just to have something here. It was a fun distraction but that's exactly what it was in reality - a distraction.
 
