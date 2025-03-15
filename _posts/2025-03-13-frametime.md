@@ -1,5 +1,5 @@
 ---
-title: "Frame Persistency (or how I learnt to stop worrying and $!"£&^ "
+title: "Frame Persistency (or how I learnt to stop worrying and... "
 date: 2025-03-13T15:34:30-04:00
 classes: wide
 max-width: calc(100vw - 200px);
